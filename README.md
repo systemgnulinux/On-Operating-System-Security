@@ -14,7 +14,7 @@ The following list includes suggestions to improve safety and security of operat
 - Application sends TCPDUMP file and last file changes reports directly to agency servers via ssh and OBM network route.
 - A.I runs TCPDUMP read check and report for speed of security incident handling.
 
-# 2. In linux, synatpic package manager shoult have a security section on the left side menu.
+# 2. In linux, synatpic package manager should have a security section on the left side menu.
 
 # 3. In linux, many distros are missing LVFS, Linux Vender Firmware Service GUI updater. link: fwupd.org
 
