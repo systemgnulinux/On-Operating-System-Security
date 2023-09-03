@@ -1,7 +1,7 @@
 #####
 # On-Operating-System-Security
 
-The following list includes suggestions to improve saftey and security of operating systems.
+The following list includes suggestions to improve safety and security of operating systems.
 
 ############################################################################################
 
