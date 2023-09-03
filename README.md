@@ -27,6 +27,8 @@ The following list includes suggestions to improve safety and security of operat
 
 # 6. Debian should maintain an experiement developer version for testing a cpu friendly FHE.
 
+# 7. Developers use A.I. to complete a list of clean and concise command line usage for cli tools and add to --help or MAN commands lines.
+
 #####
 
 
