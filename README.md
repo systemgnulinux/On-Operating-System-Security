@@ -5,7 +5,7 @@ The following list includes suggestions to improve safety and security of operat
 
 ################################################################################
 
-# 1. A secure and lightweight emergency hacking incident reporting application for Win, Mac OS, Linux.
+# 1. A secure and lightweight emergency hacking breach incident reporting application for Win, Mac OS, Linux.
 - uses TCPDUMP and Tshark pcap.
 - Application secured so if hackers stop or disable application services, operating shutsdown immmidiatly.
 - Selection menu 1, choose from list of every country in the world with a cyber intelligence agency.
