@@ -29,6 +29,8 @@ The following list includes suggestions to improve safety and security of operat
 
 # 7. Developers use A.I. to complete a list of clean and concise command line usage for cli tools and add to --help or MAN commands lines.
 
+# 8. Most of Win, Mac Os and Linux basic user choice of security defaults are off, set all security options to on at time of install, users can disable if it conflicts with user performance.
+
 #####
 
 
